@@ -24,7 +24,7 @@ I am a student, currently studying in Ain Shams University .
  <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nada-alsaid-a57a5a20b)](www.linkedin.com/in/nada-alsaid-a57a5a20b) 
+   [![Linkedin Badge](https://img.shields.io/badge/-nadaalsaid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nada-alsaid-a57a5a20b\)](www.linkedin.com/in/nada-alsaid-a57a5a20b\) 
    [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ns1062321@gmail.com)](mailto:ns1062321@gmail.com)
 
 
