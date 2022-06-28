@@ -16,9 +16,17 @@ I am a student, currently studying in Ain Shams University .
 - Dart 
 - Flutter
 
-### Interesting stats
+### GitHub stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
-  </p>
+ </p>
+ <p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nada-alsaid-a57a5a20b)](www.linkedin.com/in/nada-alsaid-a57a5a20b) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ns1062321@gmail.com)](mailto:ns1062321@gmail.com)
+
+
+</p>
 Thanks for stopping by! 😁
