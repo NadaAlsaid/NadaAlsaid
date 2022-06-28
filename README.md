@@ -1,11 +1,5 @@
 <h1 align="center">Hi, I'm Nada 👋</h1>
 
-# Welcome to my github! 👋
-
-<div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
-</div>
-
 ## About me :mortar_board:
 I am a student, currently studying in Ain Shams University .
 ## What I know :computer:
