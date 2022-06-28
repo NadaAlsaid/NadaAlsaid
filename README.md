@@ -23,7 +23,9 @@ I am a student, currently studying in Ain Shams University .
  </p>
  
  <p align="center">
-   <img height="40" src="https://user-images.githubusercontent.com/92337927/176229362-19a88c4a-e5ed-4ae8-97b1-c3a4cbb3d0bc.png" href="www.linkedin.com/in/nada-alsaid-a57a5a20b">
+   <a href="www.linkedin.com/in/nada-alsaid-a57a5a20b">
+      <img height="40" src="https://user-images.githubusercontent.com/92337927/176229362-19a88c4a-e5ed-4ae8-97b1-c3a4cbb3d0bc.png" >
+  </a>
    [![Gmail Badge](https://img.shields.io/badge/-v.nada?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ns1062321@gmail.com)](mailto:ns1062321@gmail.com)
 
 
