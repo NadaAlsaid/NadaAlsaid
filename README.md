@@ -18,6 +18,6 @@ I am a student, currently studying in Ain Shams University .
 
 ### Interesting stats
 
-![Nada's stats](https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true)
-
+![Nada's stats](https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
 Thanks for stopping by! 😁
