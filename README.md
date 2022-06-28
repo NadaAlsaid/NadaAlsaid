@@ -1,4 +1,4 @@
-<img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px" align="center">
+<h1 align="center"><img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px" ></h1>
 <h1 align="center">Hi, I'm Nada </h1>
 ## About me :mortar_board:
 I am a student, currently studying in Ain Shams University .
