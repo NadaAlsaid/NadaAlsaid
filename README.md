@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nada <img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px"></h1>
-
+<img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px" align="center">
+<h1 align="center">Hi, I'm Nada </h1>
 ## About me :mortar_board:
 I am a student, currently studying in Ain Shams University .
 ## What I know :computer:
