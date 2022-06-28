@@ -17,7 +17,8 @@ I am a student, currently studying in Ain Shams University .
 - Flutter
 
 ### Interesting stats
-
+<p align="center">
 ![Nada's stats](https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
+  </p>
 Thanks for stopping by! 😁
