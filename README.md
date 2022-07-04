@@ -22,13 +22,17 @@ I am a student, currently studying in Ain Shams University .
 <p align="center">
  <details>
    <summary>:zap:<h3>Github Stats</h3></summary>
+   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
+ </p>
  </details> 
   <details> 
     <summary>:zap:<h3> Languages Used</h3></summary>
+    <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
+   </p>
     </details> 
- </p>
+
 
 ### Find me on ...
  
