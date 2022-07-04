@@ -22,6 +22,7 @@ I am a student, currently studying in Ain Shams University .
 
 <p align="center">
  <details>
+   <summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
  </details> 
   <details> 
