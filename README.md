@@ -18,14 +18,14 @@ I am a student, currently studying in Ain Shams University .
 - Dart 
 - Flutter
 
-### GitHub stats
 
 <p align="center">
  <details>
-   <summary>Github Stats</summary>
+   <summary><h4>Github Stats</h4></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
  </details> 
   <details> 
+   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
     </details> 
  </p>
