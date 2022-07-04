@@ -19,11 +19,12 @@ I am a student, currently studying in Ain Shams University .
 - Flutter
 
 ### GitHub stats
+<details>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
  </p>
- 
+<details> 
 ### Find me on ...
  
  <p align="center">
