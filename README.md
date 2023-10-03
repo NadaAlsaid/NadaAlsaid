@@ -1,4 +1,7 @@
 👋
+<div align="center">
+![waving-hand](https://github.com/NadaAlsaid/NadaAlsaid/assets/92337927/b812aa8b-2de3-4866-9dc6-bf1516c5576c)
+</div>
 
 
 <h1 align="center">Hi, I'm Nada </h1>
@@ -36,6 +39,7 @@ I am a student, currently studying in Computer and Information Sciences Ain Sham
    </p>
 </details> 
 </p>
+
 ### Find me on ...
  
  <p align="center">
