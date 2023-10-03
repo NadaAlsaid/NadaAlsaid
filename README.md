@@ -1,6 +1,6 @@
 👋
 <div align="center">
-![waving-hand](https://github.com/NadaAlsaid/NadaAlsaid/assets/92337927/b812aa8b-2de3-4866-9dc6-bf1516c5576c)
+<img height="40" src="https://github.com/NadaAlsaid/NadaAlsaid/assets/92337927/b812aa8b-2de3-4866-9dc6-bf1516c5576c">
 </div>
 
 
