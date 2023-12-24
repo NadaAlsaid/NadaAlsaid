@@ -24,8 +24,8 @@ I am a student, currently studying in Computer and Information Sciences Ain Sham
 
 
 ## What I want to do next :thinking:
-- Dart 
-- Flutter
+- Real Time Systems
+- Embedded Linux
   
 <div align="center"><img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px" ></div>
 <p align="center">
